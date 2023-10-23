@@ -12,3 +12,12 @@
 ### VS Code
 
 We use .devcontainer to run the project in VS Code. So you can just open the project in VS Code and it will ask you to open it in a container.
+
+## Papers
+
+* https://arxiv.org/pdf/2204.00498.pdf - Evaluating the Text-to-SQL Capabilities of Large Language Models
+
+## Documentation
+
+* https://python.langchain.com/docs/use_cases/qa_structured/sql
+* https://blog.langchain.dev/llms-and-sql/
